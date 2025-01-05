@@ -12,4 +12,4 @@
 </div>
 
 
-<img align="right" height="150" src="https://tenor.com/view/jhukega-nahi-jhuke-ka-nahin-sala-jignesh-mevani-jhukega-nahi-sala-gif-25573696"  />
+<img align="right" height="150" src="<div class="tenor-gif-embed" data-postid="24750971" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pushpa-pushpa-the-rise-pushpa-movie-pushpa-raj-allu-arjun-gif-24750971">Pushpa Pushpa The Rise GIF</a>from <a href="https://tenor.com/search/pushpa-gifs">Pushpa GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"  />
