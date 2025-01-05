@@ -11,7 +11,7 @@
 <h3 align="left">Languages and Tools:</h3> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,nodejs,laravel,php,postgres,django,mongodb,mysql,sqlite,python,git,c,cpp,docker,postman," /> </a> </p>
 </div>
 
-<img align="middle" height="150" src="Roshanweb.jpg"  />
+<img align="Left" height="250" src="Roshanweb.jpg"  />
 
 <img align="right" height="150" src="giphy.webp"  />
 
