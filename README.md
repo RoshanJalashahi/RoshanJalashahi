@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jalashahi Roshan</h1>
 <h3 align="center">A passionate Backend Developer from Nepal 🚀</h3>
 
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="150" height="150" alt="GIF 1" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" height="150" alt="GIF 2" />
-</div>
-
----
-
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
