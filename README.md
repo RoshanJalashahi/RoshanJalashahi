@@ -23,14 +23,8 @@
 
 <h2 align="center">🌟 Fun GIFs</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div>
-    <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="250" alt="Pizza Ninjas GIF" />
-  </div>
-  <div>
-    <img src="giphy.webp" width="250" alt="Coding Fun GIF" />
-  </div>
-</div>
+<img align="left" height="150" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<img align="right" height="150" src="giphy.webp"  />
 
 ---
 
@@ -41,18 +35,6 @@
   <a href="https://linkedin.com/in/roshanjalashahi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://github.com/RoshanJalashahi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
   <a href="https://twitter.com/roshanjalashahi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
-</div>
-
----
-
-<h2 align="center">📝 Recent Projects</h2>
-
-<div align="center">
-  <ul>
-    <li><strong>Ride Sharing App Backend</strong>: Designed backend with features like FCM integration, Sparrow SMS, and payment gateways. <a href="https://github.com/RoshanJalashahi/ride-sharing-backend">GitHub Repo</a></li>
-    <li><strong>PhishX</strong>: A tool for phishing simulations and port forwarding. <a href="https://github.com/RoshanJalashahi/phishx">GitHub Repo</a></li>
-    <li><strong>Portfolio Website</strong>: React + Node.js based personal website with chatbot feature. <a href="https://github.com/RoshanJalashahi/portfolio">GitHub Repo</a></li>
-  </ul>
 </div>
 
 ---
