@@ -8,8 +8,8 @@
 
 
 <div align="left">
-<h3 align="left">Languages and Tools:</h3> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,nodejs,laravel,django,mongodb,mysql,sqlite,python,git,c,cpp,docker,postman," /> </a> </p>
+<h3 align="left">Languages and Tools:</h3> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,nodejs,laravel,php,postgres,django,mongodb,mysql,sqlite,python,git,c,cpp,docker,postman," /> </a> </p>
 </div>
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://discord.com/channels/@me/1311620614821511239/1325384652177018891"  />
