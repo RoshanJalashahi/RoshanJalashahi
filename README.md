@@ -12,4 +12,4 @@
 </div>
 
 
-<img align="right" height="150" src="https://discord.com/channels/@me/1311620614821511239/1325384652177018891"  />
+<img align="right" height="150" src="https://tenor.com/view/jhukega-nahi-jhuke-ka-nahin-sala-jignesh-mevani-jhukega-nahi-sala-gif-25573696"  />
