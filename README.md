@@ -35,11 +35,9 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div>
     <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="250" alt="Pizza Ninjas GIF" />
-    <p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>
   </div>
   <div>
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" alt="Coding Fun GIF" />
-    <p><a href="https://giphy.com/gifs/coding-xT9IgzoKnwFNmISR8I">via GIPHY</a></p>
+    <img src="giphy.webp" width="250" alt="Coding Fun GIF" />
   </div>
 </div>
 
