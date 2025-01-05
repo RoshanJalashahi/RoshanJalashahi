@@ -26,12 +26,3 @@
 <img align="left" height="150" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif"  />
 <img align="right" height="150" src="giphy.webp"  />
 
----
-
-
-
-<h2 align="center">🌟 Thanks for Visiting!</h2>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
-</div>
