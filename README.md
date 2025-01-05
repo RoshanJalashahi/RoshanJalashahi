@@ -9,17 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanJalashahi&layout=compact&theme=dracula" alt="Top Languages" height="180" />
 </div>
 
----
 
-<h2 align="center">💻 Tech Stack</h2>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,php,laravel,mysql,mongodb,sqlite,postgres,django,python,git,docker,postman,c,cpp" alt="Tech Stack" />
-  </a>
-</div>
-
----
 
 <h2 align="center">🌟 Fun GIFs</h2>
 
